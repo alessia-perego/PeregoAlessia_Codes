@@ -10,11 +10,6 @@ from matplotlib.animation import FuncAnimation
 from astropy import constants as const
 import time
 
-
-#CORREGGERE CM USARE COSO CHE CALCOLA TIPO MAN MANO (RIGUARDO APP LEZIONE)
-
-#https://www.desmos.com/calculator?lang=it (link for desmos plot tidal condition plot)
-
 ###########################################
 # UNITS
 my_u = ["kpc","yr","M_sun"]
