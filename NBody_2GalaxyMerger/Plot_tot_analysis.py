@@ -11,8 +11,6 @@ from astropy import constants as const
 from astropy.io import fits
 import time
 
-#https://www.desmos.com/calculator?lang=it (link for desmos plot tidal condition plot)
-
 ###########################################
 # UNITS
 my_u = ["kpc","yr","M_sun"]
