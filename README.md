@@ -1,7 +1,7 @@
  :telescope: **Summary**
 - 
 
-In this repository there are two folders with different projects: 
+In this repository, there are two folders with different projects: 
 - :bookmark_tabs: in [Astrostatistics_MachineLearning](https://github.com/alessia-perego/PeregoAlessia_Codes/blob/main/Astrostatistics_MachineLearning): there are some codes from the astrostatistics and machine learning course. There are different models for the analysis.
   For example:
     - [L10.ipynb](https://github.com/alessia-perego/PeregoAlessia_Codes/blob/main/Astrostatistics_MachineLearning/L10.ipynb) Markov chain;
